@@ -2,7 +2,7 @@ package youtube;
 
 import java.util.Scanner;
 //import java.util.Scanner; -> to use 'scanner'
-public class InputOutputTerminal {
+public class InputOutputIntAndStringTerminal {
     public static void main(String[] args) {
         //scanner -> user input
        Scanner scanner  = new Scanner(System.in);
