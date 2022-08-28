@@ -1,4 +1,4 @@
-package Encapsulation;
+package EncapsulationGetSet;
 
 public class CarOne {
     private String make;
