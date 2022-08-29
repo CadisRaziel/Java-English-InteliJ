@@ -1,0 +1,5 @@
+alt + insert -> generate codes (toString, constructor, get-set etc..)
+alt + enter -> import de classes
+ctrl + D -> copia uma linha de código
+ctrl + alt + seta pra baixo -> desce o código
+ctrl + alt + l -> formatar o código
